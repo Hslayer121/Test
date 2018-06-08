@@ -1,6 +1,6 @@
 Testb
 
-<<<<<<< HEAD
+Swag
 
-swag
->>>>>>> 2385cb5568da0ea1b61927aeb0445df0f1f26b39
+yeet
+
